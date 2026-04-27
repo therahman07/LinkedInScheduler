@@ -1,0 +1,4 @@
+customtkinter
+tkcalendar
+apscheduler
+playwright
